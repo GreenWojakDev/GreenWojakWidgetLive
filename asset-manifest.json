@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://saibotx.github.io/GreenWojak/static/css/bundle.min.css",
+    "main.js": "https://saibotx.github.io/GreenWojak/static/js/bundle.js",
+    "main.js.map": "https://saibotx.github.io/GreenWojak/static/js/bundle.js.map",
+    "index.html": "https://saibotx.github.io/GreenWojak/index.html",
+    "static/css/bundle.min.css.map": "https://saibotx.github.io/GreenWojak/static/css/bundle.min.css.map",
+    "static/js/bundle.js.LICENSE.txt": "https://saibotx.github.io/GreenWojak/static/js/bundle.js.LICENSE.txt",
+    "static/media/inter.css": "https://saibotx.github.io/GreenWojak/static/media/Inter.var.9df5db38.woff2"
+  },
+  "entrypoints": [
+    "static/css/bundle.min.css",
+    "static/js/bundle.js"
+  ]
+}
